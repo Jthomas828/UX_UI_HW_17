@@ -1,0 +1,43 @@
+<link rel="stylesheet" href="styles.css">
+img.a {
+    vertical-align: baseline;
+  }
+  
+  img.b {
+    vertical-align: text-top;
+  }
+  
+  img.c {
+    vertical-align: text-bottom;
+  }
+  
+  img.d {
+    vertical-align: sub;
+  }
+  
+  img.e {
+    vertical-align: super;
+  }
+{
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 55px solid blue;
+    background-color: yellow;
+  }
+body {
+    background-color: lightcyan;
+  }
+  
+  h1 {
+    color: black;
+    margin-left: 10px;
+  }
+  .nav {
+    background-color: yellow;
+    list-style-type: none;
+    text-align: center; 
+    padding: 0;
+    margin: 0;
+  }
